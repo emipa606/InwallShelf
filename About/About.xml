@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>InwallShelf</name>
+    <author>PthaloBlue</author>
+    <targetVersion>0.19.2009</targetVersion>
+    <description>
+        This mod add a one-tile shelf that can be built on a wall.
+    </description>
+</ModMetaData>
