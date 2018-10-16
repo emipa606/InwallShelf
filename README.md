@@ -17,6 +17,8 @@ Compatible with mods that add/modify/interact vanilla shelf.
 ## F.A.Q.
 ### Can I install this on existing colonies?
 Yes.
+### Are the stored items accessible from both sides?
+Yes.
 ### License info
 [MIT](LICENSE)  
 Code is derived from Ludeon Studio, and [RimFridge](https://github.com/KiameV/rimworld-rimfridge)  
