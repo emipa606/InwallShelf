@@ -1,5 +1,8 @@
 # Change Log
 
+### [2.0](https://github.com/lambui/Rimworld_InwallShelf/releases/tag/2.0)
++ Rimworld 1.0
+
 ### [1.1](https://github.com/lambui/Rimworld_InwallShelf/releases/tag/1.1)
 + Update texture to show that shelf can be access both sides of wall
 

@@ -10,6 +10,7 @@ Allow colony to build shelf on a wall (or shelf acts as wall)
 | --- | --- |
 | B19 | [1.0](https://github.com/lambui/Rimworld_InwallShelf/releases/tag/1.0) |
 | B19 | [1.1](https://github.com/lambui/Rimworld_InwallShelf/releases/tag/1.1) |
+| 1.0 | [2.0](https://github.com/lambui/Rimworld_InwallShelf/releases/tag/2.0) |
 
 ## Features
 Add a single-tile shelf that can be installed on wall.
