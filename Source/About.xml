@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>InwallShelf</name>
+  <author>PthaloBlue</author>
+  <targetVersion>1.0.2059</targetVersion>
+  <url>https://github.com/lambui/Rimworld_InwallShelf</url>
+  <description>
+        This mod add a single-tile shelf that can be built on a wall.
+        Yes, shelf can be accessed from both side of the wall.
+        Credit: Texture taken from CuproPanda's CorePanda mod.
+    </description>
+</ModMetaData>
