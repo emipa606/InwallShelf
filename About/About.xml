@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>InwallShelf (Continued)</name>
   <packageId>Mlie.InwallShelf</packageId>
@@ -28,6 +28,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2048955709
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/InwallShelf][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
 [img]https://i.imgur.com/Z4GOv8H.png[/img]
@@ -45,9 +49,6 @@ Yes
 2. Does it have the same temprature propertise as the walls?
 Yes, it should have the same temp. as the walls.
 
-
-Github: https://github.com/lambui/Rimworld_InwallShelf
-
 [img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
@@ -59,4 +60,3 @@ Github: https://github.com/lambui/Rimworld_InwallShelf
 [/list]
 </description>
 </ModMetaData>
-
