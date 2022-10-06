@@ -29,9 +29,6 @@ Yes
 2. Does it have the same temprature propertise as the walls?
 Yes, it should have the same temp. as the walls.
 
-
-Github: https://github.com/lambui/Rimworld_InwallShelf
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -42,6 +39,7 @@ Github: https://github.com/lambui/Rimworld_InwallShelf
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
