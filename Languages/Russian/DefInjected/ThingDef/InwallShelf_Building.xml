@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InwallShelf_SingleShelf.label>Шкаф-Стенка</InwallShelf_SingleShelf.label>
+  <InwallShelf_SingleShelf.description>Шкаф-стенка, который может быть установлен вместо стены.</InwallShelf_SingleShelf.description>
+  <InwallShelf_DoubleShelf.label>Двойной Шкаф-Стенка</InwallShelf_DoubleShelf.label>
+  <InwallShelf_DoubleShelf.description>Двойной шкаф-стенка, который может быть установлен вместо стены.</InwallShelf_DoubleShelf.description>
+</LanguageData>
