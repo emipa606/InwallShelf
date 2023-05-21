@@ -21,12 +21,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2048955709
 
 - Added an 1x2-size shelf as well
 - Food cannot be forced consumed from the shelves as they are technically in an inaccessible spot. Pawns will however still pickup and eat food by themselves.
+- Russian translation added, thanks Tkhakiro
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
-        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/InwallShelf][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
@@ -60,5 +61,6 @@ Yes, it should have the same temp. as the walls.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
 
-</description>
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2603986959]Last updated 2023-05-21[/url]</description>
 </ModMetaData>

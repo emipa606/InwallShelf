@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Name="InwallShelfBase" ParentName="FurnitureBase" Abstract="True">
-    <thingClass>Building_Storage</thingClass>
-    <designationCategory>Furniture</designationCategory>
-    <altitudeLayer>Building</altitudeLayer>
+  <ThingDef Name="InwallShelfBase" ParentName="ShelfBase" Abstract="True">
     <clearBuildingArea>false</clearBuildingArea>
     <fillPercent>1</fillPercent>
     <coversFloor>true</coversFloor>
@@ -11,28 +8,11 @@
     <blockWind>true</blockWind>
     <blockLight>true</blockLight>
     <canOverlapZones>false</canOverlapZones>
-    <castEdgeShadows>true</castEdgeShadows>
     <staticSunShadowHeight>0</staticSunShadowHeight>
-    <stuffCategories>
-      <li>Metallic</li>
-      <li>Woody</li>
-      <li>Stony</li>
-    </stuffCategories>
-    <defaultPlacingRot>South</defaultPlacingRot>
-    <researchPrerequisites>
-      <li>ComplexFurniture</li>
-    </researchPrerequisites>
     <building>
-      <preventDeteriorationInside>true</preventDeteriorationInside>
-      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
       <canPlaceOverWall>true</canPlaceOverWall>
     </building>
-    <inspectorTabs>
-      <li>ITab_Storage</li>
-    </inspectorTabs>
-    <designationHotKey>Misc12</designationHotKey>
-    <surfaceType>Item</surfaceType>
   </ThingDef>
   <ThingDef ParentName="InwallShelfBase">
     <defName>InwallShelf_SingleShelf</defName>

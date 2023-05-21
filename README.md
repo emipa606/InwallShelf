@@ -9,6 +9,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2048955709
 
 - Added an 1x2-size shelf as well
 - Food cannot be forced consumed from the shelves as they are technically in an inaccessible spot. Pawns will however still pickup and eat food by themselves.
+- Russian translation added, thanks Tkhakiro
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -43,3 +44,4 @@ Yes, it should have the same temp. as the walls.
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2603986959]Last updated 2023-05-21

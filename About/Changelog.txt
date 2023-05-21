@@ -1,5 +1,8 @@
 # Changelog for InwallShelf
 
+1.4.3 - Shelves should now inherit vanilla shelves and behave better.
+
+
 1.4.2 - Russian translation added, thanks Tkhakiro
 
 
