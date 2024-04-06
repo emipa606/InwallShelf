@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Name="InwallShelfBase" ParentName="ShelfBase" Abstract="True">
+  <ThingDef Name="InwallShelfBase" ParentName="StorageShelfBase" Abstract="True">
     <clearBuildingArea>false</clearBuildingArea>
     <fillPercent>1</fillPercent>
     <coversFloor>true</coversFloor>

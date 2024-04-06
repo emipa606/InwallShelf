@@ -1,5 +1,8 @@
 # Changelog for InwallShelf
 
+1.5.1 - Fixed the 1.5 issue, thank you MrXarous for the report and solution
+
+
 1.5.0 - Mod updated for 1.5 and passed autotests
 
 
