@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Wall Double Shelf -->
+  <InwallShelf_DoubleShelf.label>Wall Double Shelf</InwallShelf_DoubleShelf.label>
+  <!-- EN: Double-tile shelf that can be installed on a walls -->
+  <InwallShelf_DoubleShelf.description>Double-tile shelf that can be installed on a walls</InwallShelf_DoubleShelf.description>
+  <!-- EN: Wall Single Shelf -->
+  <InwallShelf_SingleShelf.label>Wall Single Shelf</InwallShelf_SingleShelf.label>
+  <!-- EN: Single-tile shelf that can be installed on a walls -->
+  <InwallShelf_SingleShelf.description>Single-tile shelf that can be installed on a walls</InwallShelf_SingleShelf.description>
+</LanguageData>
